@@ -17,7 +17,7 @@ This code accompanies the paper:
 This project uses the **x-ray-lung-diseases-images-9-classes** dataset, reorganized into two classes: Normal and COPD (Doenças Pulmonares Obstrutivas).
 
 - **Source:** Kaggle
-- **URL:** https://www.kaggle.com/datasets/fatemehmehrparvar/lung-diseases
+- **URL:** https://www.kaggle.com/datasets/fernando2rad/x-ray-lung-diseases-images-9-classes
 - **Classes used:** `00 Normal Anatomy` and `04 Doenças Pulmonares Obstrutivas`
 - **Split:** 70% train / 15% validation / 15% test (stratified)
 - **Total samples:** ~1,984 images (1,340 Normal + 644 COPD)
@@ -129,7 +129,7 @@ If you use this code, please cite:
 > Cheemalamarri Vishnupriya, R. Rathna, S. Anubha Pearline. "A Hybrid Convolutional and Attention-Based Model for COPD Recognition Using Chest Radiographs." PeerJ Computer Science, 2025.
 
 Dataset citation:
-> Mehrparvar, F. (2022). Lung Diseases X-Ray Dataset (9 Classes). Kaggle. https://www.kaggle.com/datasets/fatemehmehrparvar/lung-diseases
+> Fernando Feltrin. X-ray Lung Diseases Images (9 classes). Kaggle. https://www.kaggle.com/datasets/fernando2rad/x-ray-lung-diseases-images-9-classes
 
 ---
 
@@ -141,4 +141,8 @@ This project is released under the **MIT License**. See `LICENSE` for details.
 
 ## Contact
 
-For questions, please contact: rathna.r@vit.ac.in
+For questions regarding this work, please contact:
+
+- Cheemalamarri Vishnupriya (First Author)
+- R. Rathna (Corresponding Author): rathna.r@vit.ac.in  
+- S. Anubha Pearline: anubhapearline.s@vit.ac.in
